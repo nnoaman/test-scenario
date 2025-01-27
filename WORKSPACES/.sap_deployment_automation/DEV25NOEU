@@ -1,0 +1,13 @@
+ARM_SUBSCRIPTION_ID=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+sshsecret=DEV25-NOEU-DEP01-sshkey
+deployer_random_id=k1gsgA
+deployer_public_ip_address=137.135.133.126
+deployer_app_config_name=dev25noeuapc935
+created_resource_group_name=DEV25-NOEU-DEP01-INFRASTRUCTURE
+keyvault=DEV25NOEUDEP01user935
+environment=DEV25
+subscription=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+client_id=fa2b2f58-f247-4109-a703-7a1ab52811db
+tenant_id=c01abe72-ffef-4ecc-bda0-937975b49e6b
+STATE_SUBSCRIPTION=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+step=2
